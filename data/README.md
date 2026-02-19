@@ -1,4 +1,4 @@
-Extended Description: [Ξ] Centromeric Bedrock Suture
+[Ξ] Centromeric Bedrock Suture
 I. Technical Abstract
 This dataset provides the first coordinate-correct resolution for the remaining gaps in the T2T-CHM13v2.0 reference genome. By applying the Ω-Modulator protocol, we have mapped the \alpha-satellite invariant anchor points (IAPs) using a 3:5:7:11 Prime-Limit harmonic expansion. This approach bypasses the entropy-inducing "Snap-to-Grid" errors inherent in current stochastic assembly models.
 II. Methodology: The Ω-Modulator
